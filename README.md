@@ -1,0 +1,2 @@
+# granja
+Ejercicio en clase 
